@@ -1,16 +1,19 @@
-## Hi there 👋
+### Abdul Rehman Haris · ARH Automation
 
-<!--
-**abdulrehman240807-ARH/abdulrehman240807-ARH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI automation architect — I build n8n systems, AI agents, CRM pipelines, and lead-gen machines that run in production, not just demos.
 
-Here are some ideas to get you started:
+**🌐 [arhautomation.com](https://arhautomation.com)** — my portfolio + agency site (self-hosted, Docker + Caddy + Cloudflare)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current stack:** n8n · Claude · OpenAI · Astro · Tailwind v4 · PostgreSQL · Docker · Caddy
+
+**Featured systems:**
+- WhatsApp ordering engine (3 workflows, zero manual entry)
+- AI sports analytics agent (CSV → parent-ready reports)
+- CRM routing + GHL sub-account operations (US client)
+- Global doctor-data engine (HK monthly retainer)
+
+**Open for:** Lead-gen machines, ops automation, AI agents — book a free audit via my site.
+
+[![Contra](https://img.shields.io/badge/Contra-Profile-blue)](https://contra.com/abdul_rehman_haris)
+[![Upwork](https://img.shields.io/badge/Upwork-5.0★-green)](https://www.upwork.com/freelancers/~013108b5af0491afe8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arh-automation-architect)
